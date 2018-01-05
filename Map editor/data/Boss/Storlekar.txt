@@ -1,0 +1,2 @@
+Boss_hit_left 5632x448. Varje bild 704x448. (spelas vänster till höger)
+Shoot_komplett 5632x448. Varje bild 704x448. (spelas vänster till höger)

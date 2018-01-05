@@ -1,0 +1,4 @@
+Billy_Hill data/npcs/character/Labelspawnhilly.png data/npcs/character/Labelbillyhill.png 5 128 64 4 2
+Gunnosaur data/npcs/enemies/Labelspawngunnosaur.png data/npcs/enemies/Label_Stegshoot.png 5 128 96 4 3
+Hitosaur data/npcs/enemies/attackhittosaur.png data/npcs/enemies/Label_Steghit.png 5 128 96 4 3
+StegoBoss data/npcs/enemies/bhit.png data/npcs/enemies/Bosslabel.png 5 128 96 4 3

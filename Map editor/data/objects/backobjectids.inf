@@ -1,0 +1,15 @@
+AlienPillar 32 256 data/objects/backobjects/AlienPillar.png 1 1
+AlienWall 512 512 data/objects/backobjects/AlienWall.png 1 1
+AlienColumn 96 384 data/objects/backobjects/AlienColumn.png 1 1
+AlienBarrel 64 64 data/objects/backobjects/AlienBarrel.png 1 1
+AlienWallPlain 512 512 data/objects/backobjects/AlienWallPlain.png 1 1
+Mountain1 544 544 data/objects/backobjects/Mountain1.png 1 1
+Mountain2 128 128 data/objects/backobjects/Mountain2.png 1 1
+Mountain3 128 128 data/objects/backobjects/Mountain3.png 1 1
+Mountain4 128 128 data/objects/backobjects/Mountain4.png 1 1
+Mountain5 256 128 data/objects/backobjects/Mountain5.png 1 1
+Tree1 128 256 data/objects/backobjects/Tree1.png 1 1
+Tree2 128 256 data/objects/backobjects/Tree2.png 1 1
+Tree3 128 256 data/objects/backobjects/Tree3.png 1 1
+Tree4 128 256 data/objects/backobjects/Tree4.png 1 1
+Cave 544 544 data/objects/backobjects/Cave.png 1 1

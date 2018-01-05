@@ -1,0 +1,14 @@
+Grass 32 32 data/objects/frontobjects/Grass.png 1 1
+Grass2 32 32 data/objects/frontobjects/Grass2.png 1 1
+Grass3 32 32 data/objects/frontobjects/Grass3.png 1 1
+Stone1 32 32 data/objects/frontobjects/Stone1.png 1 1
+Stone2 32 32 data/objects/frontobjects/Stone2.png 1 1
+Stone3 32 32 data/objects/frontobjects/Stone3.png 1 1
+Stone4 32 32 data/objects/frontobjects/Stone4.png 1 1
+Stalagtite1 32 32 data/objects/frontobjects/Stalagtite1.png 1 1
+Stalagtite2 32 32 data/objects/frontobjects/Stalagtite2.png 1 1
+Flower1 32 32 data/objects/frontobjects/Flower1.png 1 1
+Flower2 32 32 data/objects/frontobjects/Flower2.png 1 1
+Flower3 32 32 data/objects/frontobjects/Flower3.png 1 1
+Fence 192 32 data/objects/frontobjects/Fence.png 1 1
+Moonshine 64 64 data/objects/frontobjects/Moonshine.png 1 1

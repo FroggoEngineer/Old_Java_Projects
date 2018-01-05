@@ -1,0 +1,17 @@
+RandDirt 32 32 data/objects/blocks/Dirt1.png 1 1
+Dirt1 32 32 data/objects/blocks/Dirt1.png 1 1
+Dirt2 32 32 data/objects/blocks/Dirt2.png 1 1
+Dirt3 32 32 data/objects/blocks/Dirt3.png 1 1
+Dirt4 32 32 data/objects/blocks/Dirt4.png 1 1
+Dirt5 32 32 data/objects/blocks/Dirt5.png 1 1
+Dirt6 32 32 data/objects/blocks/Dirt6.png 1 1
+Dirt7 32 32 data/objects/blocks/Dirt7.png 1 1
+Dirt8 32 32 data/objects/blocks/Dirt8.png 1 1
+Dirt9 32 32 data/objects/blocks/Dirt9.png 1 1
+Dirt10 32 32 data/objects/blocks/Dirt10.png 1 1
+Dirt11 32 32 data/objects/blocks/Dirt11.png 1 1
+Dirt12 32 32 data/objects/blocks/Dirt12.png 1 1
+Dirt13 32 32 data/objects/blocks/Dirt13.png 1 1
+DirtGrass 32 32 data/objects/blocks/DirtGrass.png 1 1
+AlienBox 32 32 data/objects/blocks/AlienBox.png 1 1
+Iron 32 32 data/objects/blocks/Iron.png 1 1
